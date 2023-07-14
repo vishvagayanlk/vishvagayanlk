@@ -20,3 +20,4 @@ If you'd like to get in touch or collaborate on a project, feel free to reach ou
 - 🌐 Personal Website: [your-website.com](https://www.your-website.com)
 
 Let's connect and create something awesome together! 😄
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishvagayanlk)](https://github.com/anuraghazra/github-readme-stats)
