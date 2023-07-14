@@ -21,5 +21,9 @@ If you'd like to get in touch or collaborate on a project, feel free to reach ou
 
 Let's connect and create something awesome together! 😄
 # Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishvagayanlk)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishvagayanlk)]()
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vishvagayanlk&repo=github-readme-stats" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vishvagayanlk&repo=convoychat" />
+</a>
