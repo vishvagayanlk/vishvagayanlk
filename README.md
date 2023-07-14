@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 My name is Wishwa Gayan Wijaysinghe, and I'm a full-stack software developer based in Sri Lanka. 
-![](https://komarev.com/ghpvc/?vishvagayanlk&color=green)
+![](https://komarev.com/ghpvc/?username=vishvagayanlk&color=green)
 ## About Me
 - 🚀 Tech Stack: MERN (MongoDB, Express.js, React.js, Node.js)
 - 💻 Proficiency: TypeScript, Python, Go
