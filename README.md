@@ -27,6 +27,5 @@ Let's connect and create something awesome together! 😄
 <a href="" style="display: inline-block;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishvagayanlk&theme=radical" />
 </a> -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishvagayanlk&show_icons=true&theme=radical)](https://github.com/vishvagayanlk)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishvagayanlk&theme=radical)](https://github.com/vishvagayanlk)
+[![Wishwa Gayan Wijaysinghe's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishvagayanlk&show_icons=true&theme=radical)](https://github.com/vishvagayanlk) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishvagayanlk&theme=radical)](https://github.com/vishvagayanlk)
 
