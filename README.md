@@ -22,10 +22,8 @@ If you'd like to get in touch or collaborate on a project, feel free to reach ou
 Let's connect and create something awesome together! 😄
 # Github Stats
 <a href="">
-  Stats
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vishvagayanlk&show_icons=true&theme=radical" />
 </a>
 <a href="">
-  TOP Languages
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishvagayanlk" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishvagayanlk&theme=radical" />
 </a>
