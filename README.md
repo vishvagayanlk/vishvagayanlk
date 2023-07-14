@@ -21,12 +21,12 @@ If you'd like to get in touch or collaborate on a project, feel free to reach ou
 
 Let's connect and create something awesome together! 😄
 # Github Stats
-<a href="" style="display: inline-block; margin-right: 10px;">
+<!-- <a href="" style="display: inline-block; margin-right: 10px;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vishvagayanlk&show_icons=true&theme=radical" />
 </a>
 <a href="" style="display: inline-block;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishvagayanlk&theme=radical" />
-</a>
+</a> -->
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishvagayanlk&show_icons=true&theme=radical)](https://github.com/vishvagayanlk)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishvagayanlk&theme=radical)](https://github.com/vishvagayanlk)
 
