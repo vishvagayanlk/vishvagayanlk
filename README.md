@@ -9,7 +9,7 @@ My name is Wishwa Gayan Wijaysinghe, and I'm a full-stack software developer bas
 ## Projects
 I'm passionate about building web applications and exploring various technologies. Here are a few projects I've worked on:
 
-- Project 1: [Currency Converation Api]([https://github.com/your-username/example-project-1](https://github.com/vishvagayanlk/currency-converter-api))
+- Project 1: [Currency Converation Api](https://github.com/your-username/example-project-1](https://github.com/vishvagayanlk/currency-converter-api)
 - Project 2: [Example Project 2](https://github.com/your-username/example-project-2)
 - Project 3: [Example Project 3](https://github.com/your-username/example-project-3)
 
