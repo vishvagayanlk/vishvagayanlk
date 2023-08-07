@@ -9,15 +9,13 @@ My name is Wishwa Gayan Wijaysinghe, and I'm a full-stack software developer bas
 ## Projects
 I'm passionate about building web applications and exploring various technologies. Here are a few projects I've worked on:
 
-- Project 1: [Currency Converation Api](https://github.com/your-username/example-project-1](https://github.com/vishvagayanlk/currency-converter-api)
-- Project 2: [Example Project 2](https://github.com/your-username/example-project-2)
-- Project 3: [Example Project 3](https://github.com/your-username/example-project-3)
+- Project 1: [Currency Converation Api](https://github.com/vishvagayanlk/currency-converter-api)
+- Project 2: [PDF Book to TXT](https://github.com/vishvagayanlk/pdf-book-to-txt)
 
 ## Contact Me
 If you'd like to get in touch or collaborate on a project, feel free to reach out to me:
 
 - 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/vishva-gayan/)
-- 🌐 Personal Website: [your-website.com](https://www.your-website.com)
 
 Let's connect and create something awesome together! 😄
 # Github Stats
