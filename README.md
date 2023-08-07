@@ -21,9 +21,6 @@ Let's connect and create something awesome together! 😄
 # Github Stats
 <div style="display: flex; align-items: stretch;">
   <a href="https://github.com/vishvagayanlk">
-    <img src="https://github-readme-stats.vercel.app/api?username=vishvagayanlk&show_icons=true&theme=radical" alt="Wishwa Gayan Wijaysinghe's GitHub stats" height="200" />
-  </a>
-  <a href="https://github.com/vishvagayanlk">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishvagayanlk&theme=radical" alt="Top Languages" height="200" />
   </a>
 </div>
